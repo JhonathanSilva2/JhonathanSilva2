@@ -22,8 +22,8 @@ Here are some ideas to get you started:
 <div align="center">
 <a href="https://github.com/jhonathanSilva">
   
-![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=jhonathansilva2&show_icons=true&layout=compact&langs_count=7&theme=radical)
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=jhonathansilva2&layout=compact&langs_count=7&theme=radical)](https://github.com/jhonathansilva2/github-readme-stats)
+![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=jhonathansilva2&show_icons=true&layout=compact&langs_count=7&theme=dark)
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=jhonathansilva2&layout=compact&langs_count=7&theme=dark)](https://github.com/jhonathansilva2/github-readme-stats)
 
 </div>
 <div align="center">
