@@ -15,26 +15,26 @@ Here are some ideas to get you started:
 ## Hi! I'm Jhonathan Souza da Silva
 
 - 😄 Pronouns: he/him
-- 🌱 I’m moving fowards to learn Node, Nexjs and React
+- 🌱 I’m currently learning Node.js, Next.js, and React
 - 🔭 I'm currently working on automatization process in Harris Pye
 - :cupid: Nextjs
 
 <div align="center">
 <a href="https://github.com/jhonathanSilva">
-  
-![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=jhonathansilva2&show_icons=true&layout=compact&langs_count=7&theme=midnight-purple)
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=jhonathansilva2&layout=compact&langs_count=7&theme=midnight-purple)](https://github.com/jhonathansilva2/github-readme-stats)
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jhonathansilva2&show_icons=true&layout=compact&langs_count=7&theme=midnight-purple" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonathansilva2&layout=compact&langs_count=7&theme=midnight-purple" />
+</div>
 
 </div>
 <div align="center">
   <div style="display: inline_block"><br>
     <img height="32" width="32" src="https://cdn.simpleicons.org/Next.js/black/white" />
-    <img height="32" width="32" src="https://cdn.simpleicons.org/TailwindCSS/#9343ee/9343ee" />
+    <img height="32" width="32" src="https://cdn.simpleicons.org/TailwindCSS" />
     <img height="32" width="32" src="https://cdn.simpleicons.org/JavaScript" />
     <img height="32" width="32" src="https://cdn.simpleicons.org/TypeScript"/>
     <img height="32" width="32" src="https://cdn.simpleicons.org/Node.js" />
     <img height="32" width="32" src="https://cdn.simpleicons.org/GitHub/black/white" />
-    <img height="32" width="32" src="https://cdn.simpleicons.org/AzureDevOps/black/white" />
     <img height="32" width="32" src="https://cdn.simpleicons.org/Docker" />
   </div>
 </div>
