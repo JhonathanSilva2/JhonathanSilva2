@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 ## Hi! I'm Jhonathan Souza da Silva
 
 - 😄 Pronouns: he/him
-- 🌱 I’m currently learning Node.js, Next.js, and React
-- 🔭 I'm currently working on automatization process in Harris Pye
+- 🌱 I’m working with Node.js, Next.js, and React
+- 🔭 I'm working working on automatization process in Harris Pye Brazil
 - :cupid: Nextjs
 
 <div align="center">
