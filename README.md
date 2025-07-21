@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 - 😄 Pronouns: he/him
 - 🌱 I’m working with Node.js, Next.js, and React
-- 🔭 I'm working working on automatization process in Harris Pye Brazil
+- 🔭 I'm working on automatization process in Harris Pye Brazil
 - :cupid: Nextjs
 
 <div align="center">
